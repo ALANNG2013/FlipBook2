@@ -1,5 +1,3 @@
-
-
 (function() {
   
 	// Dimensions of the whole book
